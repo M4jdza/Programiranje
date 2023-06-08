@@ -1,0 +1,70 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="F976E5C5-096D-AD76-1101-A50EE3ECB1A8" name="Polisa">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>F8B57329-16BA-8350-9647-8DA22CF2D340</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="PolisaID" id="6CF9E38C-8036-F924-C2C0-4A6C1C39DE23">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>EF74D935-EE18-27F0-9F89-CE487519668A</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DatumPocetka" id="1CBECAF8-DB06-B07C-C3BB-34B7A9A1E876">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>4717CDF5-2F9E-D2B7-293F-18601906B19D</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DatumZavrsetka" id="411423CA-F41D-04E5-A7A0-054B66FF38A0">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>37842321-0DD7-0415-007C-D06D936B284D</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Vrednost" id="DCE0DAAE-566D-EACD-B90A-152798F69C26">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>AC857A48-0449-2670-0122-337C430CB0F5</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="00A298A6-E643-3CFB-04BA-D1212A2997EB" name="Polisa_PK">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>80FC7291-14B0-F679-43C0-4B11018365D5</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6CF9E38C-8036-F924-C2C0-4A6C1C39DE23"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

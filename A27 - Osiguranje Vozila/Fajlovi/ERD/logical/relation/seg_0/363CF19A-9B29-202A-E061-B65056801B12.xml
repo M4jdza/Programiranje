@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="proizvodjac_model" directorySegmentName="seg_0" id="363CF19A-9B29-202A-E061-B65056801B12">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:25:19 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<engineerTo>
+<item key="1F2D94FA-E025-FD26-92DA-79253CB5D8B1" value="true"/>
+</engineerTo>
+<sourcePk>FAEA695D-0497-F32B-3B82-DBA3E1084CB7</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>5EF48B06-63B3-B494-A36E-20B4CDC8ABF9</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>B81443BF-B45F-53FD-6258-CBD44F4ADFC6</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

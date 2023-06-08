@@ -1,0 +1,61 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="0294434D-9B08-5A9A-1A8F-69AE07C079D1" name="Izvestaj">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>E6C05B58-1659-71C8-9189-E3CB593E6E53</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="PrekrsajID" id="55409653-E2FE-B0C7-EF4C-3FF17EF1325C">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>F6392A84-A47F-C041-3EAF-DD96008BD365</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Naziv" id="12CE302C-ED42-9B35-22E3-03E01F802DB6">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>DCDF49CA-9E5E-EF19-4D54-123C22E7A6AF</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>255</dataTypeSize>
+<ownDataTypeParameters>255,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Opis" id="A8621C82-2BFC-D775-7E04-C03ACDE75B45">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>A70C0126-2CB3-AB77-EF48-F7A805D82D2E</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>1000</dataTypeSize>
+<ownDataTypeParameters>1000,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="5C7DB07B-2EC2-4084-4A04-1AA7A5034D78" name="Izvestaj_PK">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>C0BF239D-B3DA-C14C-7398-8EE5C92B8B50</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="55409653-E2FE-B0C7-EF4C-3FF17EF1325C"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

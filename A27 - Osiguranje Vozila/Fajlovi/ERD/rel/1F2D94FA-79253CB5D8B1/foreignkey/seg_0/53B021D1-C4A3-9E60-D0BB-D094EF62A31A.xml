@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="53B021D1-C4A3-9E60-D0BB-D094EF62A31A" containerWithKeyObject="D921FF17-350A-31C9-36AB-CCA84436E897" localFKIndex="3740D7D9-40D5-3E52-F3BA-30000EA75E0F" name="Prekrsaj_Vozac_Vozilo_FK">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>524C787C-CDD6-BDB3-226C-63FA936F0AC0</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<referredTableLongName>Vozilo</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>48529E65-5621-F3AA-AD68-78AAC424F5CF</referredTableID>
+<keyObject>5D3AB504-8767-564E-3675-DC126744088F</keyObject>
+<referredKeyID>5D3AB504-8767-564E-3675-DC126744088F</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>VoziloID</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

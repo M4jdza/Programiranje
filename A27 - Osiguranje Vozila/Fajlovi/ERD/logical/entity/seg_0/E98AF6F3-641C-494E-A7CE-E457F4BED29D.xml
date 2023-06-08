@@ -1,0 +1,122 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="E98AF6F3-641C-494E-A7CE-E457F4BED29D" name="Vozac">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:13:06 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<engineerTo>
+<item key="1F2D94FA-E025-FD26-92DA-79253CB5D8B1" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="VozacID" id="BA07A056-F3E6-99F8-8080-E42DC683F25A">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:13:11 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<engineerTo>
+<item key="1F2D94FA-E025-FD26-92DA-79253CB5D8B1" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Ime" id="4A83E02B-383A-B470-5D29-4B71BF6B0C5B">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:13:20 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<engineerTo>
+<item key="1F2D94FA-E025-FD26-92DA-79253CB5D8B1" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>255</dataTypeSize>
+<ownDataTypeParameters>255,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Prezime" id="0E3F95DF-43F8-EC58-B6A0-D22E29A7D75F">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:13:31 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<engineerTo>
+<item key="1F2D94FA-E025-FD26-92DA-79253CB5D8B1" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>255</dataTypeSize>
+<ownDataTypeParameters>255,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="DatumRodjenja" id="E0838E78-F43B-9878-7D44-83E0E952A2EE">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:13:41 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<engineerTo>
+<item key="1F2D94FA-E025-FD26-92DA-79253CB5D8B1" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="DozvolaIzdata" id="D69C173F-EA87-AE22-80E2-3E381371EE1B">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:13:51 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<engineerTo>
+<item key="1F2D94FA-E025-FD26-92DA-79253CB5D8B1" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Adresa" id="71643BDD-4525-1784-B136-34AEA9CCDF7B">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:14:06 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<engineerTo>
+<item key="1F2D94FA-E025-FD26-92DA-79253CB5D8B1" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>255</dataTypeSize>
+<ownDataTypeParameters>255,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="GradID" id="A3134E75-42AB-D808-7288-7F958785BDFB">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:22:52 UTC</createdTime>
+<generatorID>0CF02306-0F14-E291-73C1-338071728360</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<engineerTo>
+<item key="1F2D94FA-E025-FD26-92DA-79253CB5D8B1" value="true"/>
+</engineerTo>
+<referedAttribute>4F922E7F-2AC4-2666-2608-125C058D573D</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="B55FDEC5-F840-C945-F830-8F56F4387CF4" name="Vozac PK">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:13:19 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<engineerTo>
+<item key="1F2D94FA-E025-FD26-92DA-79253CB5D8B1" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>BA07A056-F3E6-99F8-8080-E42DC683F25A</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

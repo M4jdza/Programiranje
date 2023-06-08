@@ -1,0 +1,41 @@
+E:\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\bin\Debug\PROJEKAT PROGRAMIRANJE.exe.config
+E:\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\bin\Debug\PROJEKAT PROGRAMIRANJE.exe
+E:\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\bin\Debug\PROJEKAT PROGRAMIRANJE.pdb
+E:\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.csproj.AssemblyReference.cache
+E:\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.csproj.SuggestedBindingRedirects.cache
+E:\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT_PROGRAMIRANJE.Form1.resources
+E:\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT_PROGRAMIRANJE.Properties.Resources.resources
+E:\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.csproj.GenerateResource.cache
+E:\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.csproj.CoreCompileInputs.cache
+E:\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.exe
+E:\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.pdb
+E:\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT_PROGRAMIRANJE.Modeli_automobila.resources
+E:\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT_PROGRAMIRANJE.Polise.resources
+C:\Users\lazol\OneDrive\Радна површина\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\bin\Debug\PROJEKAT PROGRAMIRANJE.exe.config
+C:\Users\lazol\OneDrive\Радна површина\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\bin\Debug\PROJEKAT PROGRAMIRANJE.exe
+C:\Users\lazol\OneDrive\Радна површина\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\bin\Debug\PROJEKAT PROGRAMIRANJE.pdb
+C:\Users\lazol\OneDrive\Радна површина\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.csproj.AssemblyReference.cache
+C:\Users\lazol\OneDrive\Радна површина\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.csproj.SuggestedBindingRedirects.cache
+C:\Users\lazol\OneDrive\Радна површина\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT_PROGRAMIRANJE.Form1.resources
+C:\Users\lazol\OneDrive\Радна површина\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT_PROGRAMIRANJE.Modeli_automobila.resources
+C:\Users\lazol\OneDrive\Радна површина\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT_PROGRAMIRANJE.Polise.resources
+C:\Users\lazol\OneDrive\Радна површина\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT_PROGRAMIRANJE.Properties.Resources.resources
+C:\Users\lazol\OneDrive\Радна површина\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.csproj.GenerateResource.cache
+C:\Users\lazol\OneDrive\Радна површина\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.csproj.CoreCompileInputs.cache
+C:\Users\lazol\OneDrive\Радна површина\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.exe
+C:\Users\lazol\OneDrive\Радна површина\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.pdb
+C:\Users\lazol\OneDrive\Радна површина\PROJEKAT PROGRAMIRANJE\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT_PROGRAMIRANJE.Uputstvo.resources
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A27 - Osiguranje Vozila\PROJEKAT PROGRAMIRANJE\bin\Debug\PROJEKAT PROGRAMIRANJE.exe.config
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A27 - Osiguranje Vozila\PROJEKAT PROGRAMIRANJE\bin\Debug\PROJEKAT PROGRAMIRANJE.exe
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A27 - Osiguranje Vozila\PROJEKAT PROGRAMIRANJE\bin\Debug\PROJEKAT PROGRAMIRANJE.pdb
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A27 - Osiguranje Vozila\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.csproj.AssemblyReference.cache
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A27 - Osiguranje Vozila\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.csproj.SuggestedBindingRedirects.cache
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A27 - Osiguranje Vozila\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT_PROGRAMIRANJE.Form1.resources
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A27 - Osiguranje Vozila\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT_PROGRAMIRANJE.Modeli_automobila.resources
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A27 - Osiguranje Vozila\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT_PROGRAMIRANJE.Polise.resources
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A27 - Osiguranje Vozila\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT_PROGRAMIRANJE.Properties.Resources.resources
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A27 - Osiguranje Vozila\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT_PROGRAMIRANJE.Uputstvo.resources
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A27 - Osiguranje Vozila\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.csproj.GenerateResource.cache
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A27 - Osiguranje Vozila\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.csproj.CoreCompileInputs.cache
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A27 - Osiguranje Vozila\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.exe
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A27 - Osiguranje Vozila\PROJEKAT PROGRAMIRANJE\obj\Debug\PROJEKAT PROGRAMIRANJE.pdb

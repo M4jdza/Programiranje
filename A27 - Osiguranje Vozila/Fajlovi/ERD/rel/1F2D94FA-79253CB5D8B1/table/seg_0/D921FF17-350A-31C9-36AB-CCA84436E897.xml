@@ -1,0 +1,79 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="D921FF17-350A-31C9-36AB-CCA84436E897" name="Prekrsaj_Vozac">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>EBEED8A5-250A-C586-F31A-08ACD7A3BA63</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Izvestaj_PrekrsajID" id="9722D7AB-0DEB-C164-6B25-16E079ECD9C3">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>8EDCD90B-EFEF-9DC2-53CE-18EB758081D5</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="F17A799C-423B-D617-48BA-2A19E71FAA34" referredColumn="55409653-E2FE-B0C7-EF4C-3FF17EF1325C"/>
+</associations>
+</Column>
+<Column name="Vozilo_VoziloID" id="AB4AA3DD-36DD-866E-A08F-ACBC2ECBC955">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>9850F177-5FD4-53AA-6779-6DFE7BDF48E0</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="53B021D1-C4A3-9E60-D0BB-D094EF62A31A" referredColumn="7E3CFE99-3B20-13BC-BE95-41770668123F"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="5C9ECE02-B3EE-3A78-8D72-BDEA7EFF582A" name="Prekrsaj_Vozac_PK">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>9768DA31-F101-0C4F-24C9-DBAD8105AC22</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="9722D7AB-0DEB-C164-6B25-16E079ECD9C3"/>
+<colUsage columnID="AB4AA3DD-36DD-866E-A08F-ACBC2ECBC955"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="CCB5F1B3-50E8-428E-8778-D6F495A5495B" name="Prekrsaj_Vozac_Izvestaj_FK">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>452F8AD4-2E29-14AB-02AC-004F56F4A148</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="9722D7AB-0DEB-C164-6B25-16E079ECD9C3"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="3740D7D9-40D5-3E52-F3BA-30000EA75E0F" name="Prekrsaj_Vozac_Vozilo_FK">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>524C787C-CDD6-BDB3-226C-63FA936F0AC0</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="AB4AA3DD-36DD-866E-A08F-ACBC2ECBC955"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

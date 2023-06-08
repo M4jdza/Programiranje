@@ -1,0 +1,33 @@
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A9\bin\Debug\A9.exe.config
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A9\bin\Debug\A9.exe
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A9\bin\Debug\A9.pdb
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A9\obj\Debug\A9.csproj.AssemblyReference.cache
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A9\obj\Debug\A9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A9\obj\Debug\A9.Form1.resources
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A9\obj\Debug\A9.Properties.Resources.resources
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A9\obj\Debug\A9.csproj.GenerateResource.cache
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A9\obj\Debug\A9.csproj.CoreCompileInputs.cache
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A9\obj\Debug\A9.exe
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A9\obj\Debug\A9.pdb
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A9\bin\Debug\A9.exe.config
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A9\bin\Debug\A9.exe
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A9\bin\Debug\A9.pdb
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A9\obj\Debug\A9.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A9\obj\Debug\A9.csproj.SuggestedBindingRedirects.cache
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A9\obj\Debug\A9.Form1.resources
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A9\obj\Debug\A9.Properties.Resources.resources
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A9\obj\Debug\A9.csproj.GenerateResource.cache
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A9\obj\Debug\A9.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A9\obj\Debug\A9.exe
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A9\obj\Debug\A9.pdb
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A9\bin\Debug\A9.exe.config
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A9\bin\Debug\A9.exe
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A9\bin\Debug\A9.pdb
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A9\obj\Debug\A9.csproj.AssemblyReference.cache
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A9\obj\Debug\A9.csproj.SuggestedBindingRedirects.cache
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A9\obj\Debug\A9.Form1.resources
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A9\obj\Debug\A9.Properties.Resources.resources
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A9\obj\Debug\A9.csproj.GenerateResource.cache
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A9\obj\Debug\A9.csproj.CoreCompileInputs.cache
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A9\obj\Debug\A9.exe
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A9\obj\Debug\A9.pdb

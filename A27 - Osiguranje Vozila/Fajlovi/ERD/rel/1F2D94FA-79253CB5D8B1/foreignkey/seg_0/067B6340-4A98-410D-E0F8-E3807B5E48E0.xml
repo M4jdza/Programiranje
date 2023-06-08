@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="067B6340-4A98-410D-E0F8-E3807B5E48E0" containerWithKeyObject="48529E65-5621-F3AA-AD68-78AAC424F5CF" localFKIndex="5A5A44B4-C72C-A4DA-B0A6-FC583A891CDC" name="Vozilo_Polisa_FK">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>09838817-35CE-A2C8-2465-6FA0C46D9F12</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<referredTableLongName>Polisa</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>F976E5C5-096D-AD76-1101-A50EE3ECB1A8</referredTableID>
+<keyObject>00A298A6-E643-3CFB-04BA-D1212A2997EB</keyObject>
+<referredKeyID>00A298A6-E643-3CFB-04BA-D1212A2997EB</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>PolisaID</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

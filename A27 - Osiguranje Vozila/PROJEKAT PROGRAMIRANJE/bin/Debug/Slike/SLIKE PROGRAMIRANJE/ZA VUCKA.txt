@@ -1,0 +1,59 @@
+INSERT INTO model
+VALUES(1,"BMW 335i",1);
+
+INSERT INTO model
+VALUES(2,"Golf 7 R",2);
+
+INSERT INTO model
+VALUES(3,"Audi A8L",3);
+
+INSERT INTO model
+VALUES(4,"BMW M550D",1);
+
+INSERT INTO model
+VALUES(5," Mercedes S500   ",4);
+
+INSERT INTO model
+VALUES(6,"Peugeot 407",5);
+
+INSERT INTO model
+VALUES(7,"Golf 6 GTI",2);
+
+INSERT INTO model
+VALUES(8,"BRABUS 800",6);
+
+INSERT INTO model
+VALUES(9,"BMW M5 CS",1);
+
+INSERT INTO model
+VALUES(10,"Acura NSX",7);
+
+INSERT INTO model
+VALUES(11,"Arteon",2);
+
+INSERT INTO model
+VALUES(12,"G63",4);
+
+INSERT INTO model
+VALUES(13,"GT-R35",8);
+
+INSERT INTO model
+VALUES(14,"RX-7",9);
+
+INSERT INTO model
+VALUES(15,"Supra",10);
+
+INSERT INTO model
+VALUES(16,"M4",1);
+
+INSERT INTO model
+VALUES(17,"Tucson",11);
+
+INSERT INTO model
+VALUES(18,"GT63S",4);
+
+INSERT INTO model
+VALUES(19,"E63S",4);
+
+INSERT INTO model
+VALUES(20,"GT-R34",8);

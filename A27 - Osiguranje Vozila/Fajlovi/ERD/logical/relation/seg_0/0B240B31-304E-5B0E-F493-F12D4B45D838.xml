@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="v_vv" directorySegmentName="seg_0" id="0B240B31-304E-5B0E-F493-F12D4B45D838">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:23:37 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<engineerTo>
+<item key="1F2D94FA-E025-FD26-92DA-79253CB5D8B1" value="true"/>
+</engineerTo>
+<sourcePk>B55FDEC5-F840-C945-F830-8F56F4387CF4</sourcePk>
+<identifying>true</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>E98AF6F3-641C-494E-A7CE-E457F4BED29D</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>D0B0BF67-8630-762C-ED00-E60753E13CA0</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

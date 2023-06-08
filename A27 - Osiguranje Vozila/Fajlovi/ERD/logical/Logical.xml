@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="3910D49F-CC0F-BD89-9A39-B1DFDF663E2C" mainViewID="8D9D2C11-34A6-1CFB-4BA1-30E88FC03297">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:07:14 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

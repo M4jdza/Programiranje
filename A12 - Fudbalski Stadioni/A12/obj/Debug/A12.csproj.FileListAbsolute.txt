@@ -1,0 +1,14 @@
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A12\A12\bin\Debug\A12.exe.config
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A12\A12\bin\Debug\A12.exe
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A12\A12\bin\Debug\A12.pdb
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A12\A12\obj\Debug\A12.csproj.AssemblyReference.cache
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A12\A12\obj\Debug\A12.csproj.SuggestedBindingRedirects.cache
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A12\A12\obj\Debug\A12.Info.resources
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A12\A12\obj\Debug\A12.Stadion.resources
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A12\A12\obj\Debug\A12.Pretraga.resources
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A12\A12\obj\Debug\A12.Properties.Resources.resources
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A12\A12\obj\Debug\A12.Statistika.resources
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A12\A12\obj\Debug\A12.csproj.GenerateResource.cache
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A12\A12\obj\Debug\A12.csproj.CoreCompileInputs.cache
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A12\A12\obj\Debug\A12.exe
+C:\Users\lazol\OneDrive\Радна површина\Programiranje\A12\A12\obj\Debug\A12.pdb

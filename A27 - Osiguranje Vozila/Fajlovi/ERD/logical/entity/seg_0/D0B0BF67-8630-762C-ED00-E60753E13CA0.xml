@@ -1,0 +1,62 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="D0B0BF67-8630-762C-ED00-E60753E13CA0" name="Vozilo_Vozac">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:17:57 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<engineerTo>
+<item key="1F2D94FA-E025-FD26-92DA-79253CB5D8B1" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="VozacID" id="C0E82701-F665-B088-D345-2844B11CD6B0">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:23:37 UTC</createdTime>
+<generatorID>0B240B31-304E-5B0E-F493-F12D4B45D838</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<engineerTo>
+<item key="1F2D94FA-E025-FD26-92DA-79253CB5D8B1" value="true"/>
+</engineerTo>
+<referedAttribute>BA07A056-F3E6-99F8-8080-E42DC683F25A</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="VoziloID" id="768FF457-F110-A237-73E0-EA64C8738392">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:24:42 UTC</createdTime>
+<generatorID>E9B03ED1-266B-E62B-CE81-5792FD2D7E2E</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<engineerTo>
+<item key="1F2D94FA-E025-FD26-92DA-79253CB5D8B1" value="true"/>
+</engineerTo>
+<referedAttribute>A0FB8EA1-AF24-DA52-5753-5025D7D15EC5</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="B5585F5E-FF68-ACC4-1DB0-DABE55E84AC8" name="Vozilo_Vozac PK">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:23:52 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<engineerTo>
+<item key="1F2D94FA-E025-FD26-92DA-79253CB5D8B1" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>C0E82701-F665-B088-D345-2844B11CD6B0</attributeRef>
+<attributeRef>768FF457-F110-A237-73E0-EA64C8738392</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="model_vozilo" directorySegmentName="seg_0" id="382CECA5-8C86-4A63-2AB4-17D77D1F5EB0">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:26:38 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<engineerTo>
+<item key="1F2D94FA-E025-FD26-92DA-79253CB5D8B1" value="true"/>
+</engineerTo>
+<sourcePk>7F80716E-88B3-24FA-C1FA-E764E3E35FF2</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>B81443BF-B45F-53FD-6258-CBD44F4ADFC6</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>182FA58D-F383-AC60-EE8A-3D173F1B8A3B</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

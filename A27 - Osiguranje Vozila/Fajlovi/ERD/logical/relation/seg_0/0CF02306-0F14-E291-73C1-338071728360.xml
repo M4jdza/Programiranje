@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="grad_vozac" directorySegmentName="seg_0" id="0CF02306-0F14-E291-73C1-338071728360">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:22:52 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<engineerTo>
+<item key="1F2D94FA-E025-FD26-92DA-79253CB5D8B1" value="true"/>
+</engineerTo>
+<sourcePk>5FD412E5-C5CF-6C0B-8087-D89B6A56A94D</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>0D12B8F7-7DE5-44FF-6DE0-4AEC22AFBC37</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>E98AF6F3-641C-494E-A7CE-E457F4BED29D</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

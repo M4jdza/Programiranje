@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="63D5C77C-D56D-8445-53FD-DFCB8976CBA6" containerWithKeyObject="D1B138F7-A26F-4012-556B-48BF8C15D5FE" localFKIndex="5872D7DB-9631-16A5-D98C-90AB58D03093" name="Vozac_Grad_FK">
+<createdBy>lazol</createdBy>
+<createdTime>2023-05-26 22:30:21 UTC</createdTime>
+<generatorID>0CF02306-0F14-E291-73C1-338071728360</generatorID>
+<ownerDesignName>ERD</ownerDesignName>
+<referredTableLongName>Grad</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>45CFC85B-986D-FEB2-6AC4-57C7821F3C8B</referredTableID>
+<keyObject>699DA9CB-ED0E-9EFF-5161-CE034D938571</keyObject>
+<referredKeyID>699DA9CB-ED0E-9EFF-5161-CE034D938571</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>GradID</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>
